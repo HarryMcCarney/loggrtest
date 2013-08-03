@@ -1,0 +1,10 @@
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\loggr-dotnet.dll
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\NLog.config
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\NLog.dll
+c:\users\hmcca_000\documents\visual studio 2012\Projects\ConsoleApplication4\bin\Debug\NLog.xml
